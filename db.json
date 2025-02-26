@@ -1,0 +1,50 @@
+{
+  "atividades": [
+    {
+      "id": "049b8fff-bd46-4d63-b267-c740db4800dd",
+      "titulo": "Dentista",
+      "descricao": "Ida ao dentista",
+      "data": "12/02/2025",
+      "hora": "18:51",
+      "done": true
+    },
+    {
+      "id": "f6e09813-b686-4488-9fae-0ef7924f546e",
+      "titulo": "Encontro com o João",
+      "descricao": "Encontro com o João na padaria",
+      "data": "13/02/2025",
+      "hora": "17:52"
+    },
+    {
+      "id": "97d30bed-e8ac-4a4f-aac7-e7c3e22e7865",
+      "titulo": "Salario",
+      "descricao": "Salario de fevereiro",
+      "data": "28/02/2025",
+      "hora": "09:10"
+    },
+    {
+      "id": "b44ae428-472a-46e5-8fb0-c9c59a70a1ba",
+      "titulo": "Pizza",
+      "descricao": "Pizzaria com Amigos",
+      "data": "12/02/2025",
+      "hora": "22:00",
+      "done": true
+    },
+    {
+      "id": "669db363-c706-4ca3-b871-77fcb0fc06c5",
+      "titulo": "Atividade",
+      "descricao": "Atividade teste",
+      "data": "12/02/2025",
+      "hora": "22:35",
+      "done": false
+    },
+    {
+      "id": "2b22a57f-8842-4375-8d03-6fed6f1909bc",
+      "titulo": "Sorveteria",
+      "descricao": "Tomar sorvete",
+      "data": "14/02/2025",
+      "hora": "13:40",
+      "done": false
+    }
+  ]
+}
